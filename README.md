@@ -16,6 +16,8 @@ Updated the website so that it meets its accessibility standards and is optimize
 
 ## Website
 https://yurii92.github.io/Horiseon_02/
+![alt text](./assets/images/Screenshot_image_01.png)
+![alt text](./assets/images/Screenshot_image_02.png)
 
 ## Contribution
 Made with ❤️️ by Horiseon
